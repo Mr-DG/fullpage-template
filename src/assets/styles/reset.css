@@ -1,0 +1,24 @@
+html {
+  font-size: 18px;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+}
+
+.main {
+  height: 100%;
+  overflow: hidden;
+}
+
+body,
+ul,
+li,
+a,
+p,
+div {
+  padding: 0px;
+  margin: 0px;
+}
